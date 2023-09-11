@@ -1,3 +1,5 @@
+<h1 align="center">𝓚𝓼𝓱𝓲𝓽𝓲𝓳 𝓶𝓪𝓷𝓭𝓪𝓷</h1>
+<hr style="height:3px;border-width:0;color:white;background-color:gray">
  <p align="centre"> 
  - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b>𝙳𝚊𝚝𝚊 𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 & 𝙿𝙷𝙿 </b> 
  <br> 
