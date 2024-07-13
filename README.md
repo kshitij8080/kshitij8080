@@ -17,7 +17,7 @@
  <br> 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikshitij.here)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij.mandan)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](http://t.me/Kxitij8080) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-mandan-344a2a290)
  
 
