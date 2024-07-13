@@ -37,8 +37,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kshitij8080&icon=0&color=0)](https://visitcount.itsvg.in)
 
- <hr style="height:5px;border-width:0;color:white;background-color:gray"> 
-  
-
-  
- <hr style="height:5px;border-width:0;color:white;background-color:gray"> 
+ 
