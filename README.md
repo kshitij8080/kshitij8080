@@ -1,42 +1,103 @@
-<h1 align="center">ᴋꜱʜɪᴛɪᴊ ᴍᴀɴᴅᴀɴ</h1>
-<h3 align="center">𝙰 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙱𝙱𝙰(𝙲𝙰) 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊</h3>
+<h1 align="center">Hi 👋, I'm Kshitij Mandan</h1>
+<h3 align="center">Data Analyst | Business Analyst | BBA (Computer Applications)</h3>
 
-<hr style="height:3px;border-width:0;color:white;background-color:gray">
+<p align="center">
+Transforming raw data into actionable business insights through analytics, visualization, and storytelling.
+</p>
 
-<img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"><br><br><br>
-
-
- <p align="centre"> 
- - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b> React js </b> 
- <br> 
- - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 
-  <br> 
-  <font size="1"> 
-  
- -🎫️ 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗, 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜, 𝚘𝚛 𝚊𝚗𝚢 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎-𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚍𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚘𝚗𝚜. 𝙸 𝚊𝚖 𝚊𝚕𝚠𝚊𝚢𝚜 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚏𝚎𝚕𝚕𝚘𝚠 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢. 𝙻𝚎𝚝'𝚜 𝚋𝚞𝚒𝚕𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛! </font> 
- <br> 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij.mandan)
-[![image](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](http://t.me/Kshitij715) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-mandan-344a2a290)
- 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2300599C.svg?style=flat&logo=react&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%231572B6.svg?style=flat&logo=c++&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![java](https://img.shields.io/badge/java-557C94?style=flat&logo=java&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)  ![VsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![pycharm](https://img.shields.io/badge/PyCharm-FCC624??&style=flat&logo=PyCharm&logoColor=white)  ![git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) 
- ![intellij IDEA](https://img.shields.io/badge/IntellijIDEA-%23E4405F.svg?&style=flat&logo=intellijIDEA&logoColor=white)
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kshitij8080&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij8080&theme=omni&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij8080&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kshitij8080&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kshitij8080&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=Kshitij8080&icon=0&color=0)](https://visitcount.itsvg.in)
 
- 
+<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FjdHhnMWVjYjRhdzFmM3B3Y2Q0YjV3M3R0ZjN2N3YwMzA4cDQ3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+## 👨‍💼 About Me
+
+- 📊 Data Analyst with **6+ months of hands-on experience**
+- 📈 Skilled in turning business data into meaningful insights
+- 💡 Passionate about Data Analytics, Business Intelligence, and Decision Making
+- 🌱 Currently expanding expertise in **Advanced SQL, Power BI, Python, and Machine Learning**
+- 📚 Strong understanding of data cleaning, reporting, KPI tracking, and dashboard development
+- 🤝 Open to collaborating on Data Analytics and Business Intelligence projects
+
+---
+
+## 🚀 Core Competencies
+
+✔ Data Analysis
+
+✔ Business Analysis
+
+✔ Data Visualization
+
+✔ Dashboard Development
+
+✔ KPI Monitoring
+
+✔ Data Cleaning & Transformation
+
+✔ Reporting & Insights
+
+✔ Database Management
+
+✔ Requirement Gathering
+
+✔ Process Improvement
+
+---
+
+## 🛠️ Analytics & BI Stack
+
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### 🐍 Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 📈 Insurance Analytics Dashboard
+- Built interactive Power BI dashboards
+- Analyzed policy performance, revenue, and customer trends
+- Developed KPI reports for business decision-making
+
+### 🏦 Banking Customer Analysis
+- Performed customer segmentation using SQL and Excel
+- Identified retention opportunities and revenue patterns
+
+### 📊 Sales Performance Dashboard
+- Created Tableau dashboards for sales tracking
+- Visualized regional performance and growth metrics
+
+### 🗄️ SQL Business Insights Project
+- Designed analytical queries for large datasets
+- Generated actionable business reports and trend analysis
+
+---
+
+## 📜 Certifications
+
+- Data Analyst Program – ExcelR
+- Power BI for Business Analytics
+- SQL for Data Analysis
+- Tableau Dashboard Development
+
+
+### 📫 Let's Connect
+
+💼 Open to Data Analyst, Business Analyst, MIS Analyst, and BI Analyst opportunities.
+
+⭐ If you like my work, consider following my profile and checking out my projects.
